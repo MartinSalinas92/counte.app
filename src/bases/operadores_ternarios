@@ -1,0 +1,7 @@
+//Operadores condicional ternanios
+
+const activo= false;
+
+const mensaje=(activo) ? 'Activo' : 'Inactivo';
+
+console.log(mensaje);

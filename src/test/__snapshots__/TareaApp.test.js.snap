@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas para componente <ConunteApp />, correctamente pruebas del componente CounteAPP 1`] = `
+<Fragment>
+  <h1>
+    Hola Mundo
+  </h1>
+  <h2>
+    10
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Disminuir
+  </button>
+</Fragment>
+`;
